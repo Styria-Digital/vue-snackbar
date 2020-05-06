@@ -1,8 +1,8 @@
 {
-    "name": "@badu/vue-snackbar",
+    "name": "@Styria-Digital/vue-snackbar",
     "version": "2.8.0",
     "description": "Snackbar vue component",
-    "license" : "Proprietary",
+    "license" : "SEE LICENSE IN LICENCE",
     "private": true,
     "main": "SnackbarNotif.js",
     "homepage": "https://github.com/Styria-Digital/vue-snackbar#readme",
