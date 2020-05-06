@@ -1,0 +1,22 @@
+{
+    "name": "@badu/vue-snackbar",
+    "version": "2.8.0",
+    "description": "Snackbar vue component",
+    "license" : "Proprietary",
+    "private": true,
+    "main": "SnackbarNotif.js",
+    "homepage": "https://github.com/badu22/vue-snackbar#readme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/badu22/vue-snackbar"
+    },
+    "keywords": [
+        "snackbar",
+        "npm",
+        "package",
+        "badu"
+    ],
+    "dependencies": {
+        "vue2-touch-events": "^2.0.0"
+    }
+}
