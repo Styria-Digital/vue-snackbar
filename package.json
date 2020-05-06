@@ -5,10 +5,10 @@
     "license" : "Proprietary",
     "private": true,
     "main": "SnackbarNotif.js",
-    "homepage": "https://github.com/badu22/vue-snackbar#readme",
+    "homepage": "https://github.com/Styria-Digital/vue-snackbar#readme",
     "repository": {
         "type": "git",
-        "url": "https://github.com/badu22/vue-snackbar"
+        "url": "https://github.com/Styria-Digital/vue-snackbar"
     },
     "keywords": [
         "snackbar",
